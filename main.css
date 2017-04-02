@@ -1,0 +1,127 @@
+.general {
+	width: 75%;
+}
+
+.icons {
+	margin-top: 10px;
+}
+
+#iconuk {
+	width: 25px;
+	
+}
+
+#iconpl {
+	width: 25px;
+}
+
+#iconru {
+	width: 26px;
+	
+}
+
+#iconua {
+	width: 26px;
+	margin-right: 20px;
+}
+
+.idark  {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+.idark:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.navname {
+	font-size: 29px;
+	font-family: 'Acme', sans-serif;
+	color: #ffffff;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.navback {
+	background-color: #00001a;
+}
+
+.headers {
+	font-family: 'Acme', sans-serif;
+	color: #ffffff;
+	font-size: 22px;
+	margin: 0 0;
+	margin-left: 20px;
+}
+
+li {
+	font-family: 'Acme', sans-serif;
+	font-size: 17px;
+
+}
+
+.imgav {
+	margin-left: 160px;
+	width: 150px;
+	
+
+}
+
+.dates {
+	font-family: 'Acme', sans-serif;
+	font-size: 17px;
+
+}
+
+.clause {
+	font-family: 'Acme', sans-serif;
+	margin-top: 30px;
+}
+
+.myinterests {
+	font-family: 'Acme', sans-serif;
+	font-size: 17px;
+}
+
+.headersback {
+	margin-top: 5px;
+	background-color: #00001a;
+}
+
+.toprow {
+	margin-top: 7px;
+}
+
+.persdata {
+	margin-top: 35px;
+}
+
+.fa-key {
+	font-size: 15px;
+	padding-right: 5px;
+
+}
+
+.languages {
+	padding: 0 0;
+	margin: 0 0;
+}
+
+.fa-leaf {
+	color: black;
+}
+
+#darkleaf {
+	color: grey;
+}
+
+.imginterests {
+	width: 65px;
+}
