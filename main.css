@@ -49,6 +49,14 @@ ul {
 	margin-top: 5px;
 }
 
+.navnameua {
+	font-size: 29px;
+	font-family: 'Oleo Script', cursive;
+	color: #ffffff;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
 .navback {
 	background-color: #00001a;
 }
@@ -61,8 +69,18 @@ ul {
 	margin-left: 20px;
 }
 
+.headerslatin {
+	font-family: 'Oleo Script', cursive;
+	color: #ffffff;
+	font-size: 20px;
+	margin: 0 0;
+	margin-left: 20px;
+}
+
 li {
-	font-family: 'Acme', sans-serif;
+	/*font-family: 'Acme', sans-serif;*/
+	/*font-family: 'Playfair Display', serif;*/
+	font-family: 'Oleo Script', cursive;
 	font-size: 17px;
 
 }
@@ -86,7 +104,7 @@ li {
 }
 
 .myinterests {
-	font-family: 'Acme', sans-serif;
+	font-family: 'Oleo Script', cursive;
 	font-size: 17px;
 }
 
