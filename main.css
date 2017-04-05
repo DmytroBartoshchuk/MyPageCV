@@ -8,21 +8,11 @@
 .navname {
 	
 	font-size: 29px;
-	/*font-family: 'Acme', sans-serif;*/
 	color: #ffffff;
 	margin-left: 20px;
 	margin-top: 5px;
 }
 
-/*.navnameua {
-	display: inline-block;
-	font-size: 29px;
-	font-family: 'Oleo Script', cursive;
-	color: #ffffff;
-	margin-left: 20px;
-	margin-top: 5px;
-}
-*/
 .navback {
 	background-color: #00001a;
 }
@@ -88,9 +78,6 @@
   filter: none;
 }
 
-
-
-
 /*headers*/
 
 .headersback {
@@ -99,21 +86,11 @@
 }
 
 .headers {
-	/*font-family: 'Acme', sans-serif;*/
 	color: #ffffff;
 	font-size: 22px;
 	margin: 0 0;
 	margin-left: 20px;
 }
-
-/*.headerslatin {
-	font-family: 'Oleo Script', cursive;
-	color: #ffffff;
-	font-size: 20px;
-	margin: 0 0;
-	margin-left: 20px;
-}*/
-
 
 /*personal data*/
 
